@@ -9,7 +9,7 @@
 }
 body
 {
-    background-image: linear-gradient(white, black)
+
 }
 
 a
@@ -22,3 +22,26 @@ h1
 {
     text-align: center;
 }
+
+label{
+    color: black;
+}
+
+
+#pay{
+    background-color: #737373;
+
+}
+
+
+::placeholder
+{
+    color: #363534 !important;
+}
+
+label
+{
+    font-weight: bolder; 
+    color: black
+}
+
